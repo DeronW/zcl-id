@@ -197,7 +197,8 @@
         "manuSpecificOsram": 64527,
         "manuSpecificPhilips": 64512,
         "manuSpecificCluster": 65535,
-        "manuSpecificClusterAduroSmart": 64716
+        "manuSpecificClusterAduroSmart": 64716,
+        "privateYunShiDoorlock": 65392
     },
     "dataType": {
         "noData": 0,
