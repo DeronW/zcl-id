@@ -114,6 +114,8 @@ zclId.cluster = function (cId) {
 
     if (cItem)
         return { key: cItem.key, value: cItem.value };          // { key: 'genBasic', value: 0 }
+
+    return { key: 'unknown', value: cId }
 };
 
 zclId.foundation = function (cmdId) {

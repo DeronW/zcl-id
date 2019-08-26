@@ -1321,5 +1321,34 @@
             "config":{"id":49,"type":"bitmap16"}},
         "cmd":null,
         "cmdRsp":{"hueNotification":0}
+    },
+    "manuSpecificYunShiDoorlock": {
+        "attrId":{"data": {"id": 55, "type": "charStr"}},
+        "cmd":{
+            "cmd0x0000": 0,
+            "cmd0x0001": 1,
+            "cmd0x0002": 2,
+            "cmd0x0003": 3,
+            "cmd0x0004": 4,
+            "cmd0x0005": 5,
+            "cmd0x0006": 6,
+            "cmd0x0007": 7,
+            "cmd0x0008": 8,
+            "cmd0x0009": 9,
+            "cmd0x000a": 10,
+
+            "cmd0x8000": 128,
+            "cmd0x8001": 129,
+            "cmd0x8002": 130,
+            "cmd0x8003": 131,
+            "cmd0x8004": 132,
+            "cmd0x8005": 133,
+            "cmd0x8006": 134,
+            "cmd0x8007": 135,
+            "cmd0x8008": 136,
+            "cmd0x8009": 137,
+            "cmd0x800a": 138
+        },
+        "cmdRsp":null
     }
 }

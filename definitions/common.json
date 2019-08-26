@@ -198,7 +198,7 @@
         "manuSpecificPhilips": 64512,
         "manuSpecificCluster": 65535,
         "manuSpecificClusterAduroSmart": 64716,
-        "privateYunShiDoorlock": 65392
+        "manuSpecificYunShiDoorlock": 65392
     },
     "dataType": {
         "noData": 0,
