@@ -1324,31 +1324,7 @@
     },
     "manuSpecificYunShiDoorlock": {
         "attrId":{"data": {"id": 55, "type": "charStr"}},
-        "cmd":{
-            "cmd0x0000": 0,
-            "cmd0x0001": 0,
-            "cmd0x0002": 0,
-            "cmd0x0003": 0,
-            "cmd0x0004": 0,
-            "cmd0x0005": 0,
-            "cmd0x0006": 0,
-            "cmd0x0007": 0,
-            "cmd0x0008": 0,
-            "cmd0x0009": 0,
-            "cmd0x000a": 0,
-
-            "cmd0x8000": 0,
-            "cmd0x8001": 0,
-            "cmd0x8002": 0,
-            "cmd0x8003": 0,
-            "cmd0x8004": 0,
-            "cmd0x8005": 0,
-            "cmd0x8006": 0,
-            "cmd0x8007": 0,
-            "cmd0x8008": 0,
-            "cmd0x8009": 0,
-            "cmd0x800a": 0
-        },
+        "cmd":{ "doorlock0": 0 },
         "cmdRsp":null
     }
 }
